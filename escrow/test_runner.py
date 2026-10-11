@@ -2,7 +2,7 @@ import asyncio
 import httpx
 
 API_BASE = "http://127.0.0.1:8000"
-TEST_WORKER_EMAIL = "sb-bqhoi53214835@personal.example.com"  # From developer.paypal.com
+TEST_WORKER_EMAIL = "sb-ixtf453297237@personal.example.com"  # From developer.paypal.com
 
 
 async def run_isolated_test():
